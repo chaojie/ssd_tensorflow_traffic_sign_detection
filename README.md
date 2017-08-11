@@ -1,3 +1,5 @@
+### Support Tensorflow 1.2.1
+
 # SSD in TensorFlow: Traffic Sign Detection and Classification
 ## Overview
 Implementation of [Single Shot MultiBox Detector (SSD)](https://arxiv.org/abs/1512.02325) in TensorFlow, to detect and classify traffic signs. This implementation was able to achieve 40-45 fps on a GTX 1080 with an Intel Core i7-6700K.
